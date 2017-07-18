@@ -10,8 +10,9 @@ Even though the web site looks and works quite well, putting it on GitHub is imp
 
 Even though creating this web site was a useful experience which required much patience and thinking, I do not believe this is the best way to create web sites. I would definitely prefer to focus on React and other modern technologies.
 
-![screenshot](/screenshots/frontpage.png)
-![screenshot](/screenshots/contact.png)
-![screenshot](/screenshots/menu.png)
-![screenshot](/screenshots/comments.png)
-![screenshot](/screenshots/commentsadded.png)
+![screenshot frontpage](/screenshots/frontpage.png)
+![screenshot contact](/screenshots/contact.png)
+![screenshot menu](/screenshots/menu.png)
+![screenshot subpage](/screenshots/subpage.png)
+![screenshot comments](/screenshots/comments.png)
+![screenshot commentsadded](/screenshots/commentsadded.png)
