@@ -13,6 +13,5 @@ Even though creating this web site was a useful experience which required much p
 ![screenshot frontpage](/screenshots/frontpage.png)
 ![screenshot contact](/screenshots/contact.png)
 ![screenshot menu](/screenshots/menu.png)
-![screenshot subpage](/screenshots/subpage.png)
 ![screenshot comments](/screenshots/comments.png)
 ![screenshot commentsadded](/screenshots/commentsadded.png)
