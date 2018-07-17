@@ -11,7 +11,6 @@ As the site has photos, logos and texts connected with an existing company proje
 Even though creating this web site was a useful experience, I am not a big fan of Wordpress development.
 
 ![screenshot frontpage](/screenshots/frontpage.png)
-![screenshot contact](/screenshots/contact.png)
 ![screenshot menu](/screenshots/menu.png)
 ![screenshot comments](/screenshots/comments.png)
 ![screenshot commentsadded](/screenshots/commentsadded.png)
